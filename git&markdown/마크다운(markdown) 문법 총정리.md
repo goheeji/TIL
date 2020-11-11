@@ -293,7 +293,10 @@ public class MyApp{
 Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 ```
+**적용예**:
+
 Link: [Google][googlelink] 
+
 [googlelink]:  https://google.com "Go google"
 
 
@@ -303,7 +306,9 @@ Link: [Google][googlelink]
 문법: [Title](link)
 적용예시: [Google](https://google.com, "google link")
 ```
- Link: [Google](https://google.com, "google link")
+**적용예**: 
+
+Link: [Google](https://google.com, "google link")
 
 
 
@@ -315,10 +320,38 @@ Link: [Google][googlelink]
 * 이메일 링크: <addrres@example.com>
 ```
 
-* 외부링크: <https://example.com>
+**적용예**:
+
+- 외부링크: <https://example.com>
+
 * 외부링크: https://example.com
+
 * 이메일 링크: <addrres@example.com>
 
+  
+
+* 마크다운 문서 내부 링크 이동
+
+  아래와같이 작성한 위 업로드하면, 보여지는 텍스트 클릭 시 "#이동할 위치의 텍스트"로 이동하는 것을 확인할 수 있다.
+```
+[보여지는 텍스트](#이동할 위치의 텍스트)
+~생략~
+#이동할 위치의 텍스트
+
+적용예
+[Stack](#stack-program)
+~생략~
+#Stack Program
+```
+기본링크 작성방법-[텍스트](링크)과 동일하다.
+물론 #으로 시작하니까 헤더처리된다.
+
+이동할 위치의 텍스트부분은 작성할 때 영어는 반드시 "소문자"만 가능하며 띄어쓰기는 -로 구분해야한다.
+
+
+
+[Stack](#stack-program)
+~생략~
 
 
 ## 7. 강조
@@ -362,7 +395,7 @@ __double underscores__
 <img src="D:\smile.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
 <img src="D:\smile.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile"></img>
 
-
+#Stack Program
 
 ## 9. 줄 바꿈
 
