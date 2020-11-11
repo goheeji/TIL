@@ -341,17 +341,13 @@ Link: [Google](https://google.com, "google link")
 적용예
 [Stack](#stack-program)
 ~생략~
-#Stack Program
+# Stack Program
 ```
 기본링크 작성방법-[텍스트](링크)과 동일하다.
 물론 #으로 시작하니까 헤더처리된다.
 
 이동할 위치의 텍스트부분은 작성할 때 영어는 반드시 "소문자"만 가능하며 띄어쓰기는 -로 구분해야한다.
 
-
-
-[Stack](#stack-program)
-~생략~
 
 
 ## 7. 강조
@@ -395,7 +391,7 @@ __double underscores__
 <img src="D:\smile.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
 <img src="D:\smile.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile"></img>
 
-#Stack Program
+
 
 ## 9. 줄 바꿈
 
