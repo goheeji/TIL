@@ -283,7 +283,7 @@ public class MyApp{
 
 ## 6. 링크
 
-* 참조링크
+### 6.1 참조링크
 ```
 문법
 [link keyword][id]
@@ -301,7 +301,7 @@ Link: [Google][googlelink]
 
 
 
-* 외부링크
+### 6.2 외부링크
 ```
 문법: [Title](link)
 적용예시: [Google](https://google.com, "google link")
@@ -312,7 +312,7 @@ Link: [Google](https://google.com, "google link")
 
 
 
-* 자동연결
+### 6.3 자동연결
 ```
 일반적인 URL 혹은 이메일주소인 경우 적절한 형식으로 링크를 형성한다.
 * 외부링크: <https://example.com>
@@ -330,7 +330,7 @@ Link: [Google](https://google.com, "google link")
 
   
 
-* 마크다운 문서 내부 링크 이동
+### 6.4 마크다운 문서 내부 링크 이동
 
   아래와같이 작성한 위 업로드하면, 보여지는 텍스트 클릭 시 "#이동할 위치의 텍스트"로 이동하는 것을 확인할 수 있다.
 ```
