@@ -514,12 +514,10 @@ mac: `command` + `Control` + `spacce bar`
 ## Reference
 
 * http://nblog.syszone.co.kr/archives/9917
-
 * https://steemit.com/kr/@nand/markdown
-
 * https://heropy.blog/2017/09/30/markdown
-
 * https://gist.github.com/ihoneymon/652be052a0727ad59601
+* https://sergeswin.com/1013/
 
 
 
