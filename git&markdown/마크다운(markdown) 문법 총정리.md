@@ -379,17 +379,17 @@ __double underscores__
 ![Alt text](/path/to/img.jpg "Optional title")
 ```
 **적용예**:
-![Alt text](D:\smile.png)
-![Alt text](D:\smile.png "smile")
+![Alt text](https://github.com/goheeji/TIL/blob/master/git%26markdown/smile.PNG?raw=true)
+![Alt text](https://github.com/goheeji/TIL/blob/master/git%26markdown/smile.PNG?raw=true)
 
 사이즈 조절 기능은 없기 때문에 `<img width="" height=""></img>`를 이용한다.
 ```
-<img src="D:\smile.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
-<img src="D:\smile.png" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="smile"></img>
+<img src="/path/to/img.jpg" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
+<img src="/path/to/img.jpg" width="50%" height="50%" title="px(픽셀) 크기 설정" alt="smile"></img>
 ```
 **적용예**:
-<img src="D:\smile.png" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
-<img src="D:\smile.png" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile"></img>
+<img src="https://github.com/goheeji/TIL/blob/master/git%26markdown/smile.PNG?raw=true" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"></img>
+<img src="https://github.com/goheeji/TIL/blob/master/git%26markdown/smile.PNG?raw=true" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile"></img>
 
 
 
