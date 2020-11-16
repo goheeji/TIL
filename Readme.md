@@ -26,15 +26,23 @@ Today I Learned
 
 * [마크다운(markdown) 문법 총정리][link]
 
-[link]: https://github.com/goheeji/TIL/blob/master/git%26markdown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%EB%AC%B8%EB%B2%95%20%EC%B4%9D%EC%A0%95%EB%A6%AC.md
+[link]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%EB%AC%B8%EB%B2%95%20%EC%B4%9D%EC%A0%95%EB%A6%AC.md
 
 
 
 ### TIL_Diary
-* [201110_TIL][201110_TIL]
+* [2020-11-10-TIL][2020-11-10-TIL]
 
-[201110_TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/201110_TIL.md
+[2020-11-10-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-10-TIL.md
 
-* [201111_TIL][201111_TIL]
+* [2020-11-11-TIL][2020-11-11-TIL]
 
-[201111_TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/201111_TIL.md
+[2020-11-11-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-11-TIL.md
+
+* [2020-11-14-TIL][2020-11-14-TIL]
+
+[2020-11-14-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-14-TIL.md
+
+* [2020-11-16-TIL][2020-11-16-TIL]
+
+[2020-11-16-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16-TIL.md
