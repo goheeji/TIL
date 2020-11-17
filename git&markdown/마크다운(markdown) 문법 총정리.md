@@ -65,6 +65,7 @@ This is an H2
 
 > This is a first blockquote.
 > > This is a second blockquote.
+> >
 > > > This is a third blockquote.
 
 
@@ -356,8 +357,8 @@ __double underscores__ <br>
 ![Alt text](/assets/images/markdown-syntax/smile.PNG "Optional title")
 ```
 **적용예**:<br>
-![Alt text](/assets/images/markdown-syntax/smile.PNG)
-![Alt text](/assets/images/markdown-syntax/smile.PNG "smile")
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/markdown-syntax/smile.PNG)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/markdown-syntax/smile.PNG "smile")
 
 사이즈 조절 기능은 없기 때문에 `<img width="" height=""></img>`를 이용한다.
 ```markdown
@@ -365,9 +366,9 @@ __double underscores__ <br>
 <img src="/assets/images/markdown-syntax/smile.PNG" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile">
 ```
 **적용예**:<br>
-<img src="/assets/images/markdown-syntax/smile.PNG" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"> 
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/markdown-syntax/smile.PNG" width="100px" height="100px" title="px(픽셀) 크기 설정" alt="smile"> 
  <br>
-<img src="/assets/images/markdown-syntax/smile.PNG" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile">
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/markdown-syntax/smile.PNG" width="10%" height="10%" title="px(픽셀) 크기 설정" alt="smile">
 
 
 
