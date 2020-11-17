@@ -28,6 +28,10 @@ Today I Learned
 
 [link]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%EB%AC%B8%EB%B2%95%20%EC%B4%9D%EC%A0%95%EB%A6%AC.md
 
+* [구글 검색 기능하게 하기][link2]
+
+[link2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EA%B5%AC%EA%B8%80%20%EA%B2%80%EC%83%89%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%ED%95%98%EA%B8%B0.md
+
 
 
 ### TIL_Diary
@@ -46,3 +50,8 @@ Today I Learned
 * [2020-11-16-TIL][2020-11-16-TIL]
 
 [2020-11-16-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16-TIL.md
+
+* [2020-11-17-TIL][2020-11-17-TIL]
+
+[2020-11-17-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17-TIL.md
+
