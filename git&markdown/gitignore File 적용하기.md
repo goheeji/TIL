@@ -50,11 +50,11 @@ git rm -r --cached .
 
 ## 3. 성공
 Local에서는 .gitignore설정한 파일들이 사라지지않지만 Remote에는 적용되어 올라간 모습을 볼수 있다.
-![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/sample.png)
+![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/example.png)
 ### 참고사항
 아래의 사이트에서 운영체제, 개발환경, 프로그래밍언어에 따른 .gitignore파일을 만들어준다.<br>
 https://www.toptal.com/developers/gitignore 
-![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/sample2.png)
+![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/example2.png)
 
 # references
 https://nesoy.github.io/articles/2017-01/Git-Ignore
