@@ -1,0 +1,7 @@
+# : comments
+
+# ignore .DS_Store file
+.DS_Store
+
+# ignore all files in .jekyll-cache/ directory
+.jekyll-cache
