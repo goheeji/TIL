@@ -34,7 +34,7 @@ Today I Learned
 
 * [gitignore File 적용하기][link3]
 
-[link2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
+[link3]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
 
 
 
