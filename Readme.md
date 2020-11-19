@@ -32,6 +32,10 @@ Today I Learned
 
 [link2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EA%B5%AC%EA%B8%80%20%EA%B2%80%EC%83%89%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%ED%95%98%EA%B8%B0.md
 
+* [gitignore File 적용하기][link3]
+
+[link2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
+
 
 
 ### TIL_Diary
@@ -54,4 +58,8 @@ Today I Learned
 * [2020-11-17-TIL][2020-11-17-TIL]
 
 [2020-11-17-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17-TIL.md
+
+* [2020-11-19-TIL][2020-11-19-TIL]
+
+[2020-11-19-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-19-TIL.md
 
