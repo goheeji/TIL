@@ -1,10 +1,12 @@
-gitignore File 적용하기
+.gitignore File 적용하기
 ==
 
 #  .gitignore 란?
-버전관리에서 제외시킬 파일들의 목록을 가진 설정 파일
+
+> 버전관리에서 제외시킬 파일들의 목록을 가진 설정 파일
 
 #  .gitignore 파일 만들기
+
 ## 1. .gitignore파일을 만든다.
 * 항상 최상위 디렉토리에 존재해야한다.
 
@@ -43,19 +45,24 @@ doc/**/*.pdf
 ### 2.2 이미 버전관리 중인 파일을 Github에서 삭제하고 .gitignore을 적용하고 싶은 경우
 #### 2.2.1 현재 Repository 캐시 모두 삭제
 
-```console
+```bash
 git rm -r --cached .
 ```
 #### 2.2.2 .gitignore와 함께 push
 
 ## 3. 성공
 Local에서는 .gitignore설정한 파일들이 사라지지않지만 Remote에는 적용되어 올라간 모습을 볼수 있다.
-![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/example.png)
+
+![Alt text](/assets/images/apply-.gitignore-file/1.png)
+
 ### 참고사항
 아래의 사이트에서 운영체제, 개발환경, 프로그래밍언어에 따른 .gitignore파일을 만들어준다.<br>
-https://www.toptal.com/developers/gitignore 
-![Alt img](https://github.com/goheeji/TIL/blob/master/git%26markdown/example2.png)
+
+<https://www.toptal.com/developers/gitignore> <br>
+
+![Alt text](/assets/images/apply-.gitignore-file/2.png)
 
 # references
-https://nesoy.github.io/articles/2017-01/Git-Ignore
-https://velog.io/@aquarius1997/gitignore-%EC%84%A4%EC%A0%95
+* <https://nesoy.github.io/articles/2017-01/Git-Ignore> <br>
+
+* <https://velog.io/@aquarius1997/gitignore-%EC%84%A4%EC%A0%95>
