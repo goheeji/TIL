@@ -39,27 +39,31 @@ Today I Learned
 
 
 ### TIL_Diary
-* [2020-11-10-TIL][2020-11-10-TIL]
+* [2020-11-10][2020-11-10]
 
-[2020-11-10-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-10-TIL.md
+[2020-11-10]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-10.md
 
-* [2020-11-11-TIL][2020-11-11-TIL]
+* [2020-11-11][2020-11-11]
 
-[2020-11-11-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-11-TIL.md
+[2020-11-11]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-11.md
 
-* [2020-11-14-TIL][2020-11-14-TIL]
+* [2020-11-14][2020-11-14]
 
-[2020-11-14-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-14-TIL.md
+[2020-11-14]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-14.md
 
-* [2020-11-16-TIL][2020-11-16-TIL]
+* [2020-11-16][2020-11-16]
 
-[2020-11-16-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16-TIL.md
+[2020-11-16]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16.md
 
-* [2020-11-17-TIL][2020-11-17-TIL]
+* [2020-11-17][2020-11-17]
 
-[2020-11-17-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17-TIL.md
+[2020-11-17]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17.md
 
-* [2020-11-19-TIL][2020-11-19-TIL]
+* [2020-11-19][2020-11-19]
 
-[2020-11-19-TIL]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-19-TIL.md
+[2020-11-19]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-19.md
+
+* [2020-11-20][2020-11-20]
+
+[2020-11-20]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-20.md
 
