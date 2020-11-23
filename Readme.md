@@ -45,42 +45,6 @@ Today I Learned
 
 
 ### TIL_Diary
-* [2020-11-10][TIL_Diary1]
+* [2020-11][TIL_Diary1]
 
-[TIL_Diary1]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-10.md
-
-* [2020-11-11][TIL_Diary2]
-
-[TIL_Diary2]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-11.md
-
-* [2020-11-14][TIL_Diary3]
-
-[TIL_Diary3]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-14.md
-
-* [2020-11-16][TIL_Diary4]
-
-[TIL_Diary4]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16.md
-
-* [2020-11-17][TIL_Diary5]
-
-[TIL_Diary5]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17.md
-
-* [2020-11-19][TIL_Diary6]
-
-[TIL_Diary6]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-19.md
-
-* [2020-11-20][TIL_Diary7]
-
-[TIL_Diary7]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-20.md
-
-* [2020-11-21][TIL_Diary8]
-
-[TIL_Diary8]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-21.md
-
-* [2020-11-22][TIL_Diary9]
-
-[TIL_Diary9]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-22.md
-
-* [2020-11-23][TIL_Diary10]
-
-[TIL_Diary10]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-23.md
+[TIL_Diary1]: https://github.com/goheeji/TIL/tree/master/TIL_Diary/2020-11
