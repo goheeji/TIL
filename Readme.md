@@ -42,6 +42,11 @@ Today I Learned
 
 [Git&Markdown3]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
 
+* [Git 취소하기 명령어 모음][Git&Markdown4]
+
+[Git&Markdown4]:https://github.com/goheeji/TIL/blob/master/git%26markdown/Git%20%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md
+
+
 
 
 ### TIL_Diary
