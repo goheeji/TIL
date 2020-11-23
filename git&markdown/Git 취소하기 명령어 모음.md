@@ -1,4 +1,4 @@
-# [Git] Git 취소하기 명령어 모음
+# Git 취소하기 명령어 모음
 ## 1. git add 취소하기
 git add를 취소한다는 말은 git status를 했을때 파일 상태를 unstage로 변경한다는 말과 같다.
 
