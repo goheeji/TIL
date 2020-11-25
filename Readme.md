@@ -22,48 +22,34 @@ Today I Learned
 
 ## 분류
 
+### JAVA
+
+* [function][ JAVA1]
+
+[JAVA1]:https://github.com/goheeji/TIL/blob/master/JAVA/function.md
+
 ### Git&Markdown
 
-* [마크다운(markdown) 문법 총정리][link]
+* [마크다운(markdown) 문법 총정리][Git&Markdown1]
 
-[link]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%EB%AC%B8%EB%B2%95%20%EC%B4%9D%EC%A0%95%EB%A6%AC.md
+[Git&Markdown1]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4(markdown)%20%EB%AC%B8%EB%B2%95%20%EC%B4%9D%EC%A0%95%EB%A6%AC.md
 
-* [구글 검색 기능하게 하기][link2]
+* [구글 검색 기능하게 하기][Git&Markdown2]
 
-[link2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EA%B5%AC%EA%B8%80%20%EA%B2%80%EC%83%89%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%ED%95%98%EA%B8%B0.md
+[Git&Markdown2]:https://github.com/goheeji/TIL/blob/master/git%26markdown/%EA%B5%AC%EA%B8%80%20%EA%B2%80%EC%83%89%20%EA%B0%80%EB%8A%A5%ED%95%98%EA%B2%8C%20%ED%95%98%EA%B8%B0.md
 
-* [gitignore File 적용하기][link3]
+* [gitignore File 적용하기][Git&Markdown3]
 
-[link3]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
+[Git&Markdown3]:https://github.com/goheeji/TIL/blob/master/git%26markdown/gitignore%20File%20%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0.md
+
+* [Git 취소하기 명령어 모음][Git&Markdown4]
+
+[Git&Markdown4]:https://github.com/goheeji/TIL/blob/master/git%26markdown/Git%20%EC%B7%A8%EC%86%8C%ED%95%98%EA%B8%B0%20%EB%AA%85%EB%A0%B9%EC%96%B4%20%EB%AA%A8%EC%9D%8C.md
+
 
 
 
 ### TIL_Diary
-* [2020-11-10][2020-11-10]
+* [2020-11][TIL_Diary1]
 
-[2020-11-10]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-10.md
-
-* [2020-11-11][2020-11-11]
-
-[2020-11-11]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-11.md
-
-* [2020-11-14][2020-11-14]
-
-[2020-11-14]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-14.md
-
-* [2020-11-16][2020-11-16]
-
-[2020-11-16]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-16.md
-
-* [2020-11-17][2020-11-17]
-
-[2020-11-17]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-17.md
-
-* [2020-11-19][2020-11-19]
-
-[2020-11-19]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-19.md
-
-* [2020-11-20][2020-11-20]
-
-[2020-11-20]: https://github.com/goheeji/TIL/blob/master/TIL_Diary/2020-11-20.md
-
+[TIL_Diary1]: https://github.com/goheeji/TIL/tree/master/TIL_Diary/2020-11

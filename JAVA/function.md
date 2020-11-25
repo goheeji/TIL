@@ -25,7 +25,8 @@
 ```
 
 ## 함수의 입력과 반환
-**캡쳐 이미지**
+
+![Alt text](https://github.com/goheeji/TIL/blob/master/JAVA/function.png)
 
 들어가는 값을 매개변수라고하며 결과값을 반환값이라고한다. 
 
