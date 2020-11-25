@@ -1,15 +1,3 @@
----
-toc: ture
-toc_sticky: ture
-title: "[Java] 함수(Fuction)"
-excerpt: "함수의 기본을 다져보자"
-
-categories:
-  - Java
-tags:
-  - java
-  - fuction
----
 ## 함수란 무엇인가요?
 **함수 (function)**
 

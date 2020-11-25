@@ -1,15 +1,3 @@
----
-toc: ture
-toc_sticky: ture
-title: "[Java] 메서드(Method)"
-excerpt: "메서드의 기본을 다져보자"
-
-categories:
-  - Java
-tags:
-  - java
-  - method
----
 ## 메서드(method)란? 
 * 객체의 기능을 구현하기 위해 클래스 내부에 구현되는 함수
 * 메서드를 구현함으로써 객체의 기능이 구현 됨
