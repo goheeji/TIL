@@ -1,5 +1,7 @@
-# function
+
+
 ## 함수란 무엇인가요?
+
 **함수 (function)**
 
 - 하나의 기능을 수행하는 일련의 코드
@@ -26,7 +28,7 @@
 
 ## 함수의 입력과 반환
 
-![Alt text](https://github.com/goheeji/TIL/blob/master/JAVA/function.png)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/fuction/1.png)
 
 들어가는 값을 매개변수라고하며 결과값을 반환값이라고한다. 
 

@@ -28,6 +28,10 @@ Today I Learned
 
 [JAVA1]:https://github.com/goheeji/TIL/blob/master/JAVA/function.md
 
+* [method][ JAVA2]
+
+[JAVA2]:https://github.com/goheeji/TIL/blob/master/JAVA/method.md
+
 ### Git&Markdown
 
 * [마크다운(markdown) 문법 총정리][Git&Markdown1]
