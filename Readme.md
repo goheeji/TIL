@@ -24,13 +24,22 @@ Today I Learned
 
 ### JAVA
 
-* [function][ JAVA1]
+* [함수][ JAVA1]
 
 [JAVA1]:https://github.com/goheeji/TIL/blob/master/JAVA/function.md
 
-* [method][ JAVA2]
+* [메서드][ JAVA2]
 
 [JAVA2]:https://github.com/goheeji/TIL/blob/master/JAVA/method.md
+
+* [생성자, 생성자오버로딩][ JAVA3]
+
+[JAVA3]:https://github.com/goheeji/TIL/blob/master/JAVA/constructor%26constructorOverroding.md
+
+* [참조 자료형][ JAVA4]
+
+[JAVA4]:https://github.com/goheeji/TIL/blob/master/JAVA/referenceDataType.md
+
 
 ### Git&Markdown
 
