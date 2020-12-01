@@ -57,3 +57,8 @@ Today I Learned
 * [2020-11][TIL_Diary1]
 
 [TIL_Diary1]: https://github.com/goheeji/TIL/tree/master/TIL_Diary/2020-11
+
+
+* [2020-12][TIL_Diary2]
+
+[TIL_Diary2]: https://github.com/goheeji/TIL/tree/master/TIL_Diary/2020-12
