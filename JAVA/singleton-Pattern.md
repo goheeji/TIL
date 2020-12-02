@@ -47,7 +47,7 @@ public class CompanyTest {
 ```
 단 하나만 생성이 되므로 company1 과 company2의 값은 같다.
 
-날짜로 예를들면
+날짜로 예를들면,
 
 이렇게 하면 안된다.
 
