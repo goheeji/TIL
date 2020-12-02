@@ -4,7 +4,7 @@
 - 생성자에서 다른 생성자를 호출 함
 - 인스턴스 자신의 주소를 반환
 ## 자기 자신의 메모리를 가리키는 this
-[그림1]
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/this/1.png"><br><br>
 
 ## 생성자에서 다른 생성자를 호출
 

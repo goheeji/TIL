@@ -4,8 +4,8 @@ ex) 학교, 회사, 날짜
 
 - 생성자는 private으로 만든다.
 - static으로 유일한 객체를 생성
-- 외부에서 유일한 객체를 참조할 수 있는 public static get() 메서드 구현
-그림[1]
+- 외부에서 유일한 객체를 참조할 수 있는 public static get() 메서드 구현<br>
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/singleton-pattern/1.png"><br><br>
 
 ```java
 package staticex;
