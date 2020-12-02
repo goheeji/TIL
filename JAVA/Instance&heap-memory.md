@@ -30,7 +30,7 @@ public class StudentTest {
 어떤 변수이름으로 객체를 생성하게되면 힙(Heap)이라는 메모리에 그 객체가 생성이된다. 객체가 가지는 멤버변수의 사이즈만큼 메모리가 잡힌다. 
 이것들을 인스턴스라고한다. 인스턴스들은 각각의 멤버값을 갖게된다.
 
-![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance&HeapMemory/1.png)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/1.png)
 
 ```java
 package classpart;
@@ -58,16 +58,16 @@ public class Student {
 생성 위치 ? 힙(Heap)이라는 메모리에 생긴다.
 힙(Heap)은 동적메모리라고한다.
 
-![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance&HeapMemory/2.png)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/2.png)
 `StudentLee`라는 값은 스택메모리에 어드레스 사이즈 만큼 생긴다.
 
 힙(Heap)에  studentID, studentName, address가생기고
 스택이 가르키는 값이 힙메모리의 주소값이다.
 
-![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance&HeapMemory/3.png)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/3.png)
 `StudentLee.` 했을때 이 주소가 가르키는 그 위치(힙)에있는 멤버변수들을 의미한다. 멤버변수값은 힙(Heap) Area에있다.
 
-![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance&HeapMemory/4.png)
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/4.png)
 마찬가지로 `StudentKim`에 대해서도 같다.
 힙(Heap) Area에 있는객체들을 인스턴스라고한다.
 각각의 인스턴스는 별개의 메모리를 갖는다.

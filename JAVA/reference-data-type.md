@@ -11,7 +11,7 @@
 
 ## 참조 자료형 직접 만들어 사용하기
 학생클래스(Student)에 있는 과목 이름, 과목 성적 속성을 과목 클래스(Subject)로 분리하고 Subject 참조 자료형 멤버 변수를 Student에 정의하여 사용한다.
-[그림1]
+![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/referenceDataType/1.PNG)
 
 ```java
 public class Student {
