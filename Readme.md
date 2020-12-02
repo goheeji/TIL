@@ -60,6 +60,14 @@ Today I Learned
 
 [JAVA8]:https://github.com/goheeji/TIL/blob/master/JAVA/cooperation.md
 
+* [static변수, static메서드][ JAVA9]
+
+[JAVA9]:https://github.com/goheeji/TIL/blob/master/JAVA/static-variable%2Cstatic-method.md
+
+* [Singleton Pattern][ JAVA10]
+
+[JAVA10]:https://github.com/goheeji/TIL/blob/master/JAVA/singleton-Pattern.md
+
 
 ### Git&Markdown
 
