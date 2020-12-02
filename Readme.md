@@ -24,6 +24,10 @@ Today I Learned
 
 ### JAVA
 
+* [CODE][JAVA0]
+
+[JAVA0]:https://github.com/goheeji/TIL/tree/master/JAVA/code
+
 * [함수][ JAVA1]
 
 [JAVA1]:https://github.com/goheeji/TIL/blob/master/JAVA/function.md
