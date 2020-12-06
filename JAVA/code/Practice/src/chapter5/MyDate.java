@@ -9,7 +9,7 @@ public class MyDate {
 	private int day;
 	private boolean isValid = true;
 
-	public MyDate(int day, int month, int year) { // »ı¼ºÀÚ
+	public MyDate(int day, int month, int year) { // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 		setYear(year);
 		setMonth(month);
 		setDay(day);
@@ -46,14 +46,14 @@ public class MyDate {
 			}
 			break;
 		case 2:
-			if (((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)) { // À±³âÀÎ °æ¿ì À±³âÀº 
-																		//4ÀÇ ¹è¼ö°¡À±³âÀÌ°í,100ÀÇ ¹è¼ö´Â À±³âÀÌ¾Æ´Ï°í 400ÀÇ ¹è¼ö´Â À±³âÀÌ´Ù
+			if (((year % 4 == 0 && year % 100 != 0) || year % 400 == 0)) { // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ 
+																		//4ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì°ï¿½,100ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì¾Æ´Ï°ï¿½ 400ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½Ì´ï¿½
 				if (day < 0 || day > 29) {
 					isValid = false;
 				} else {
 					this.day = day;
 				}
-			} else { // À±³âÀÌ ¾Æ´Ñ°æ¿ì
+			} else { // ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Æ´Ñ°ï¿½ï¿½
 				if (day < 0 || day > 28) {
 					isValid = false;
 				} else {
@@ -93,10 +93,10 @@ public class MyDate {
 	
 	public String isValid(){
 		if(isValid){
-			return "À¯È¿ÇÑ ³¯Â¥ÀÔ´Ï´Ù.";
+			return "ìœ íš¨í•œ ë‚ ì§œì…ë‹ˆë‹¤.";
 		}
 		else{
-			return "À¯È¿ÇÏÁö ¾ÊÀº ³¯Â¥ÀÔ´Ï´Ù.";
+			return "ìœ íš¨í•˜ì§€ ì•Šì€ ë‚ ì§œì…ë‹ˆë‹¤.";
 		}
 	}
 

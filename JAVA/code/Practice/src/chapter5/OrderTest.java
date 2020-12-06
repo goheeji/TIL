@@ -9,17 +9,17 @@ public class OrderTest {
 
 		order.id = "201907210001";
 		order.userID = "abc123";
-		order.date = "2019³â 7¿ù 21ÀÏ";
-		order.name = "È«±æ¼ø";
+		order.date = "2019ë…„ 7ì›” 21ì¼";
+		order.name = "ê³ í¬ì§€";
 		order.number = "PD0345-12";
-		order.address = "¼­¿ï½Ã ¿µµîÆ÷±¸ ¿©ÀÇµµµ¿ 20¹øÁö";
+		order.address = "ì„œìš¸ì‹œ ë…¸ì›êµ¬";
 
-		System.out.println("ÁÖ¹®¹øÈ£: " + order.id);
-		System.out.println("ÁÖ¹®ÀÚ ¾ÆÀÌµğ: " + order.userID);
-		System.out.println("ÁÖ¹® ³¯Â¥: " + order.date);
-		System.out.println("ÁÖ¹®ÀÚ ÀÌ¸§: " + order.name);
-		System.out.println("ÁÖ¹® »óÇ° ¹øÈ£: " + order.number);
-		System.out.println("¹è¼ÛÁÖ¼Ò: " + order.address);
+		System.out.println("ì£¼ë¬¸ ë²ˆí˜¸: " + order.id);
+		System.out.println("ì£¼ë¬¸ID: " + order.userID);
+		System.out.println("ì£¼ë¬¸ë‚ ì§œ: " + order.date);
+		System.out.println("ì£¼ë¬¸ì ì´ë¦„: " + order.name);
+		System.out.println("ë¬¼í’ˆë²ˆí˜¸: " + order.number);
+		System.out.println("ì£¼ë¬¸ì£¼ì†Œ: " + order.address);
 
 	}
 
