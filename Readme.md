@@ -68,6 +68,15 @@ Today I Learned
 
 [JAVA10]:https://github.com/goheeji/TIL/blob/master/JAVA/singleton-Pattern.md
 
+* [배열][ JAVA11]
+
+[JAVA11]:https://github.com/goheeji/TIL/blob/master/JAVA/array.md
+
+* [객체배열][ JAVA12]
+
+[JAVA112]:https://github.com/goheeji/TIL/blob/master/JAVA/array-of-objects.md
+
+
 
 ### Git&Markdown
 
