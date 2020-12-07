@@ -74,7 +74,7 @@ Today I Learned
 
 * [객체배열][ JAVA12]
 
-[JAVA112]:https://github.com/goheeji/TIL/blob/master/JAVA/array-of-objects.md
+[JAVA12]:https://github.com/goheeji/TIL/blob/master/JAVA/array-of-objects.md
 
 
 
