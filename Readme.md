@@ -76,6 +76,14 @@ Today I Learned
 
 [JAVA12]:https://github.com/goheeji/TIL/blob/master/JAVA/array-of-objects.md
 
+* [다차원 배열][ JAVA13]
+
+[JAVA13]:https://github.com/goheeji/TIL/blob/master/JAVA/multi-dimensional-arrays.md
+
+* [ArrayList][ JAVA14]
+
+[JAVA14]:https://github.com/goheeji/TIL/blob/master/JAVA/ArrayList.md
+
 
 
 ### Git&Markdown
