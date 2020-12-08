@@ -38,11 +38,11 @@ Today I Learned
 
 * [생성자, 생성자오버로딩][ JAVA3]
 
-[JAVA3]:https://github.com/goheeji/TIL/blob/master/JAVA/constructor%2C%20constructor-overroding.md
+[JAVA3]:https://github.com/goheeji/TIL/blob/master/JAVA/constructor%26constructor-overroding.md
 
 * [인스턴스, 힙메모리][ JAVA4]
 
-[JAVA4]:https://github.com/goheeji/TIL/blob/master/JAVA/Instance%2C%20heap-memory.md
+[JAVA4]:https://github.com/goheeji/TIL/blob/master/JAVA/Instance%26heap-memory.md
 
 * [참조 자료형][ JAVA5]
 
@@ -62,7 +62,7 @@ Today I Learned
 
 * [static변수, static메서드][ JAVA9]
 
-[JAVA9]:https://github.com/goheeji/TIL/blob/master/JAVA/static-variable%2C%20static-method.md
+[JAVA9]:https://github.com/goheeji/TIL/blob/master/JAVA/static-variable%26static-method.md
 
 * [Singleton Pattern][ JAVA10]
 
