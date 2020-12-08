@@ -39,7 +39,7 @@ Lee 학생은 두 과목을 수강하고, Kim 학생은 세 과목을 수강합�
 
 Student  클래스에 ArrayList 멤버변수를 하나 가지고 각 학생이 수강하는 과목을 관리 하도록 합니다.
 
-출력예시:
+출력예시:<br>
 <img src="https://github.com/goheeji/TIL/blob/master/JAVA/arrayList/2.png"><br>
 
 - Student.java
