@@ -54,18 +54,18 @@ public class Student {
 
 ```
 위의 Student클래스에서 studentID, studentName, address들은 클래스에서 전반적으로 쓰는 멤버변수이다. <br>
-** 멤버변수의 생성시기?**  new했을때<br> 
+**멤버변수의 생성시기?**  new했을때<br> 
 **생성 위치 ?** 힙(Heap)이라는 메모리에 생긴다.
-힙(Heap)은 동적메모리라고한다.
+힙(Heap)은 동적메모리라고한다.<br><br>
 
 ![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/2.png)<br>
 `StudentLee`라는 값은 스택메모리에 어드레스 사이즈 만큼 생긴다.
 
 힙(Heap)에  studentID, studentName, address가생기고
-스택이 가르키는 값이 힙메모리의 주소값이다.
+스택이 가르키는 값이 힙메모리의 주소값이다.<br><br>
 
 ![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/3.png)<br>
-`StudentLee.` 했을때 이 주소가 가르키는 그 위치(힙)에있는 멤버변수들을 의미한다. 멤버변수값은 힙(Heap) Area에있다.
+`StudentLee.` 했을때 이 주소가 가르키는 그 위치(힙)에있는 멤버변수들을 의미한다. 멤버변수값은 힙(Heap) Area에있다.<br><br>
 
 ![Alt text](https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/Instance%26HeapMemory/4.png)<br>
 마찬가지로 `StudentKim`에 대해서도 같다.
