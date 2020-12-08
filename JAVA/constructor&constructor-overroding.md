@@ -35,7 +35,7 @@ pubic Student(String name){
 	studentName = name;
 	}
 ```
-이렇게 생성자를 여러개 놓을수있다. 이것을 **오버로딩(Overloading)**이라고한다.
+이렇게 생성자를 여러개 놓을수있다. 이것을 **오버로딩(Overloading)** 이라고한다.
 이름이 같지만 매개변수가 다른경우에 여러개의 메서드나 생성자가 있을수 있다.
 
 ## 생성자 오버로딩(constructor overloading)
