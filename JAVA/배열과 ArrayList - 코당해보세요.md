@@ -5,3 +5,4 @@
 
 다음과 같이 출력 되도록 Student, Book, StudentTest 클래스를 만들어 실행하세요.
 
+<img src="https://github.com/goheeji/TIL/blob/master/JAVA/array-doit-coding/1.png"><br>
