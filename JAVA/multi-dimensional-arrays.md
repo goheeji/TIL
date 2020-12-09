@@ -2,7 +2,7 @@
 - 2차원 이상의 배열
 - 지도, 게임, 평면이나 공간을 구현할 때 사용
 - 이차원 배열의 예
-<img src="https://github.com/goheeji/TIL/blob/master/JAVA/multi-dimensional-arrays/1.png"><br>
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/multi-dimensional-arrays/1.png"><br>
 행을 기준으로 열을 돌린다.
 
 //2차원 배열 예제

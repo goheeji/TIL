@@ -8,8 +8,8 @@ int[] arr = new int[10];
 int arr[] = new int[10];
 ```
 
-- 메모리 구조
-사진[1]
+- 메모리 구조<br>
+<img src="https://github.com/goheeji/goheeji.github.io/blob/master/assets/images/java/array/1.png"><br><br>
 배열은 물리적인위치와 논리적인 위치가 동일하다.
 0번째 부터 시작한다.
 배열의 길이: length
@@ -20,6 +20,7 @@ int arr[] = new int[10];
 대문자를 A-Z까지 배열에 저장하고 이를 다시 출력하는 프로그램을 만들어 보세요.
 
 - 내가 한것
+
 ```java
 public class CharArray {
 
@@ -39,6 +40,7 @@ public class CharArray {
 ```
 
 - 강사님이 한것
+
 ```java
 public class CharArray {
 
