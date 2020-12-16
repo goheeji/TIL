@@ -84,6 +84,26 @@ Today I Learned
 
 [JAVA14]:https://github.com/goheeji/TIL/blob/master/JAVA/ArrayList.md
 
+* [상속][ JAVA15]
+
+[JAVA15]:https://github.com/goheeji/TIL/blob/master/JAVA/inheritance.md
+
+* [상속에서 클래스 생성 과정과 형 변환][ JAVA16]
+
+[JAVA16]:https://github.com/goheeji/TIL/blob/master/JAVA/%EC%83%81%EC%86%8D%EC%97%90%EC%84%9C%20%ED%81%B4%EB%9E%98%EC%8A%A4%20%EC%83%9D%EC%84%B1%EA%B3%BC%EC%A0%95%EA%B3%BC%20%ED%98%95%20%EB%B3%80%ED%99%98.md
+
+* [메서드 오버라이딩][ JAVA17]
+
+[JAVA17]:https://github.com/goheeji/TIL/blob/master/JAVA/method-overriding.md
+
+* [다형성][ JAVA18]
+
+[JAVA18]:https://github.com/goheeji/TIL/blob/master/JAVA/polymorphism.md
+
+* [다운 캐스팅과 instanceof][ JAVA19]
+
+[JAVA19]:https://github.com/goheeji/TIL/blob/master/JAVA/%EB%8B%A4%EC%9A%B4%20%EC%BA%90%EC%8A%A4%ED%8C%85%EA%B3%BC%20instanceof.md
+
 
 
 ### Git&Markdown
