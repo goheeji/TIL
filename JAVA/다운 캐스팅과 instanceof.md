@@ -5,7 +5,7 @@
 
 하위 클래스로의 형 변환은 명시적으로 되어야 함
 
-Customer vc = new VIPCustomer(); //묵시적
+Customer vc = new VIPCustomer(); //묵시적<br>
 VIPCustomer vCustomer = (VIPCustomer)vc; //명시적
 
 instanceof를 사용해서 안정적으로 다운캐스팅을 할 수 있다.
