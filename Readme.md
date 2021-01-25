@@ -108,7 +108,9 @@ Today I Learned
 
 [JAVA20]:https://github.com/goheeji/TIL/blob/master/JAVA/abstract-class.md
 
+* [인터페이스][ JAVA21]
 
+[JAVA21]:https://github.com/goheeji/TIL/blob/master/JAVA/interface.md
 
 ### Git&Markdown
 
