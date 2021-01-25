@@ -104,6 +104,9 @@ Today I Learned
 
 [JAVA19]:https://github.com/goheeji/TIL/blob/master/JAVA/%EB%8B%A4%EC%9A%B4%20%EC%BA%90%EC%8A%A4%ED%8C%85%EA%B3%BC%20instanceof.md
 
+* [추상클래스와 템플릿메서드][ JAVA20]
+[JAVA20]:https://github.com/goheeji/TIL/blob/master/JAVA/abstract-class.md
+
 
 
 ### Git&Markdown
