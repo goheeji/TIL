@@ -38,11 +38,11 @@ Today I Learned
 
 * [생성자, 생성자오버로딩][ JAVA3]
 
-[JAVA3]:https://github.com/goheeji/TIL/blob/master/JAVA/constructor%26constructor-overroding.md
+[JAVA3]:https://github.com/goheeji/TIL/blob/master/JAVA/constructor-and-constructor-overroding.md
 
 * [인스턴스, 힙메모리][ JAVA4]
 
-[JAVA4]:https://github.com/goheeji/TIL/blob/master/JAVA/Instance%26heap-memory.md
+[JAVA4]:https://github.com/goheeji/TIL/blob/master/JAVA/Instance-and-heap-memory.md
 
 * [참조 자료형][ JAVA5]
 
@@ -60,9 +60,9 @@ Today I Learned
 
 [JAVA8]:https://github.com/goheeji/TIL/blob/master/JAVA/cooperation.md
 
-* [static변수, static메서드][ JAVA9]
+* [static변수와 static메서드][ JAVA9]
 
-[JAVA9]:https://github.com/goheeji/TIL/blob/master/JAVA/static-variable%26static-method.md
+[JAVA9]:https://github.com/goheeji/TIL/blob/master/JAVA/static-variable-and-static-method.md
 
 * [Singleton Pattern][ JAVA10]
 
@@ -102,7 +102,7 @@ Today I Learned
 
 * [다운 캐스팅과 instanceof][ JAVA19]
 
-[JAVA19]:https://github.com/goheeji/TIL/blob/master/JAVA/%EB%8B%A4%EC%9A%B4%20%EC%BA%90%EC%8A%A4%ED%8C%85%EA%B3%BC%20instanceof.md
+[JAVA19]:https://github.com/goheeji/TIL/blob/master/JAVA/down-casting-and-instanceof.md
 
 * [추상클래스와 템플릿메서드][ JAVA20]
 
@@ -118,11 +118,11 @@ Today I Learned
 
 * [Class 클래스][ JAVA23]
 
-[JAVA23]:https://github.com/goheeji/TIL/blob/master/JAVA/Class%20%ED%81%B4%EB%9E%98%EC%8A%A4.md
+[JAVA23]:https://github.com/goheeji/TIL/blob/master/JAVA/class-class.md
 
 * [String, Wrapper 클래스][ JAVA24]
 
-[JAVA24]:https://github.com/goheeji/TIL/blob/master/JAVA/String%2C%20Wrapper%20%ED%81%B4%EB%9E%98%EC%8A%A4.md
+[JAVA24]:https://github.com/goheeji/TIL/blob/master/JAVA/string-and-wrapper-class.md
 
 * [제네릭 프로그래밍][ JAVA25]
 
@@ -134,15 +134,32 @@ Today I Learned
 
 * [List 인터페이스][ JAVA27]
 
-[JAVA27]:https://github.com/goheeji/TIL/blob/master/JAVA/List%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md
+[JAVA27]:https://github.com/goheeji/TIL/blob/master/JAVA/list-interface.md
 
 * [Stack과 Queue 구현][ JAVA28]
 
-[JAVA28]:https://github.com/goheeji/TIL/blob/master/JAVA/Stack%EA%B3%BC%20Queue%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0.md
+[JAVA28]:https://github.com/goheeji/TIL/blob/master/JAVA/stack-and-queue.md
 
 * [Set 인터페이스][ JAVA29]
 
 [JAVA29]:https://github.com/goheeji/TIL/blob/master/JAVA/Set-Interface.md
+
+* [Map 인터페이스][ JAVA30]
+
+[JAVA30]:https://github.com/goheeji/TIL/blob/master/JAVA/map-interface.md
+
+* [내부 클래스][ JAVA31]
+
+[JAVA31]:https://github.com/goheeji/TIL/blob/master/JAVA/inner-class.md
+
+* [람다식][ JAVA32]
+
+[JAVA32]:https://github.com/goheeji/TIL/blob/master/JAVA/lambda.md
+
+* [스트림][ JAVA33]
+
+[JAVA33]:https://github.com/goheeji/TIL/blob/master/JAVA/Stream.md
+
 
 ### Git&Markdown
 
