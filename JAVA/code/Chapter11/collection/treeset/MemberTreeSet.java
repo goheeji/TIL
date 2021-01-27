@@ -10,7 +10,8 @@ public class MemberTreeSet {
 	private TreeSet<Member> treeSet;
 
 	public MemberTreeSet() {
-		treeSet = new TreeSet<Member>();
+		//comparator 에서 구현
+		treeSet = new TreeSet<Member>(new Member());
 
 	}
 
