@@ -8,3 +8,18 @@ Collections.reverse(Arrays.asList(배열)); 은 일반 배열을 리스트로 �
 
 String.join("추가할 문자", 배열); 은 예를 들어 String.join(",",str)이면 
 "바나나,사과,망고" 이런식으로 ','가 추가되어 원소들이 나열된다.
+
+```java
+import java.util.*;
+class Solution {
+    public String solution(String s) {
+        
+        String[] str = s.split("");
+        Arrays.sort(str);
+        Collections.reverse(Arrays.asList(str));
+        
+        return String.join("",str);
+        
+    }
+}
+```
